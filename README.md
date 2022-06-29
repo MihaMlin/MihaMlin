@@ -1,5 +1,5 @@
 - Hi, I’m @MihaMlin
-- I’m currently learning to become a full stack developer
+- I’m learning to become a full stack developer
 - Currently attending university studying computer science
 
 <!---
