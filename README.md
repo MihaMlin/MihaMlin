@@ -1,5 +1,4 @@
 - Hi, I’m @MihaMlin
-- I’m learning to become a full stack developer
 - Currently attending university studying computer science
 
 <!---
